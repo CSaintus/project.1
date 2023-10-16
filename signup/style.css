@@ -6,7 +6,7 @@ body
     font-family: 'Arial';
 }
 
-.login{
+.Sign-Up{
         width: 382px;
         overflow: hidden;
         margin: auto;
@@ -23,9 +23,9 @@ h2{
 }
 
 p{
-  text-align: center;
-  color: blanchedalmond;
-  padding: 20px;
+    text-align: center;
+    color: blanchedalmond;
+    padding: 20px;
 }
 
 label{
